@@ -32,8 +32,8 @@ y = "RAVI"
 print(y.lower())
 
 #3 .strip()
-z = "__Ravi__"
-print(z.strip('_'))
+z = "  Ravi  "
+print(z.strip())
 
 #4 .split():
 x = "Hello"
