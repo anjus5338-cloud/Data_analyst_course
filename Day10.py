@@ -1,5 +1,5 @@
 #Set:
-'''set = {"Apple","Mango","Orange"}
+set = {"Apple","Mango","Orange"}
 print(type(set))
 #unordered
 #Unchangable
@@ -10,14 +10,14 @@ print(set)
 set.remove("Apple")
 print(set)
 set.pop()
-print(set)'''
+print(set)
 
 #dict:
 x = {
     "brand":"vivo",
     "year" : "2"   
 }
-'''print(len(x))
+print(len(x))
 a =dict(name = "ravi", age = 17)
 print(a)
 #Ordered
@@ -25,7 +25,7 @@ print(a)
 print(x["brand"])
 #copy:
 data = x.copy()
-print(data)'''
+print(data)
 
 for key in x.keys():
     print(key)
