@@ -63,7 +63,7 @@ print(n+5)
 #2.size
 #3.datatype
 
-arr = np.arange(1,20)
+arr = np.arange(1,21)
 print(arr)
 print(arr.shape)
 print(arr.size)
