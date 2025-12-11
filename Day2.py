@@ -1,7 +1,7 @@
 #Data_types
 
 #1.String:
-s = "Anju Shekhawat"
+s = "Anju"
 print(s)
 print(type(s))
 
